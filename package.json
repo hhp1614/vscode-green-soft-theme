@@ -3,11 +3,16 @@
   "displayName": "green-soft theme",
   "description": "green-soft theme",
   "publisher": "hhp1614",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hhp1614/vscode-green-soft-theme.git"
+    "url": "https://github.com/hhp1614/vscode-green-soft-theme.git"
   },
+  "galleryBanner": {
+    "color": "#fdf6e3",
+    "theme": "light"
+  },
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.52.0"
   },
