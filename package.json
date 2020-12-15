@@ -1,0 +1,22 @@
+{
+    "name": "green-soft-theme",
+    "displayName": "green-soft theme",
+    "description": "green-soft theme",
+    "publisher": "hhp1614",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "hhp1614",
+                "uiTheme": "vs",
+                "path": "./themes/hhp1614-color-theme.json"
+            }
+        ]
+    }
+}
